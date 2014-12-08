@@ -1,5 +1,5 @@
-var levelup = require('levelup')
-var Memdown = require('memdown')
+var levelup = require('levelup-sync')
+var Memdown = require('memdown-sync')
 var rimraf = require('rimraf')
 var mkdirp = require('mkdirp')
 var tmpdir = require('osenv').tmpdir()

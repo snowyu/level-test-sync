@@ -1,12 +1,12 @@
-# level-test
+# level-test-sync
 
 inject different level implementations (browser, leveldb, etc) into your tests.
 
-[![travis](https://travis-ci.org/dominictarr/level-test.png?branch=master)
-](https://travis-ci.org/dominictarr/level-test)
+[![travis](https://travis-ci.org/snowyu/level-test-sync.png?branch=master)
+](https://travis-ci.org/snowyu/level-test-sync)
 
-[![testling](https://ci.testling.com/dominictarr/level-test.png)
-](https://ci.testling.com/dominictarr/level-test)
+[![testling](https://ci.testling.com/snowyu/level-test-sync.png)
+](https://ci.testling.com/snowyu/level-test-sync)
 
 
 ## Example
