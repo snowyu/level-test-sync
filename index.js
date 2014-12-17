@@ -7,7 +7,7 @@ var path = require('path')
 var xtend = require('xtend')
 function maybeLevelDown () {
   try {
-    return require('leveldown')
+    return require('leveldown-sync')
   } catch (err) {
     console.error('could not load leveldown, fallback to memdown')
     return Memdown

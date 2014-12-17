@@ -11,8 +11,8 @@
     "level-js": "~2.1.6",
     "rimraf": "~2.2.6",
     "osenv": "0.1.0",
-    "memdown-sync": "~1.0.0",
-    "levelup-sync": "~0.19.2",
+    "memdown-sync": "~1.1.0",
+    "levelup-sync": "~0.20.0",
     "xtend": "~4.0.0",
     "mkdirp": "~0.5.0"
   },
