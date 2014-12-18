@@ -1,7 +1,7 @@
 {
   "name": "level-test-sync",
   "description": "get a clean levelup-sync instance for testing.",
-  "version": "1.6.9",
+  "version": "1.6.10",
   "homepage": "https://github.com/snowyu/level-test-sync",
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "mkdirp": "~0.5.0"
   },
   "optionalDependencies": {
-    "leveldown-sync": "~1.1.2"
+    "leveldown-sync": "~1.1.5"
   },
   "devDependencies": {
     "tape": "~3.0.0"
